@@ -2,9 +2,9 @@
 
 Submitted by: **Samuel Obeng**
 
-This web app: **insert description**
+This web app: **👍 Crewmates 1.0 is a React + Supabase web app that lets users create, view, edit, and explore a team of unique space crewmates. Each crewmate has attributes like speed, intellect, and personalized details. Users can add new crewmates, view full profiles, and manage existing ones with real-time updates from a Supabase backend.**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 

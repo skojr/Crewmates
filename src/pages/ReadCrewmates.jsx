@@ -10,7 +10,7 @@ const ReadCrewmates = (props) => {
       const { data, error } = await supabase
         .from("Crewmates")
         .select()
-        .order("created_at", { ascending: true });
+        .order("created_at", { ascending: false });
 
       if (error) {
         console.error("Error fetching crewmates:", error);
